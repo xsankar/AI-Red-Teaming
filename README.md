@@ -1,4 +1,4 @@
-### LLM-RedOps-Tactics a.k.a. Awesome-LLM-Red-Teaming
+### AI Red Teaming a.k.a. LLM-RedOps-Tactics or even Awesome-LLM-Red-Teaming
 #### _[<img src="images/back_button_2.png" width="25" height="25">Back to TOC](https://github.com/xsankar/Awesome-Awesome-LLM)_
 | [About Me](https://ksankar.medium.com/about-me-the-pitter-patter-of-small-feats-de22f4c36ea6) | [Blog](https://ksankar.medium.com) |
 | :- | :- |
