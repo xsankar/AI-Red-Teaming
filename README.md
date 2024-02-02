@@ -8,8 +8,21 @@
 > | :- |
 > 
 ---
-| [Survey & Analytical Paper Collection](#survey--analytical-papers) | [Metrics](#metrics) | [Benchmarks](#benchmarks) | [Datasets](#datasets) | [Other Repos](#other-repos) |
-| :-: | :-: | :-: | :-: | :-: |
+| [Best Practices](#best-practices) |[Survey & Analytical Paper Collection](#survey--analytical-papers) | [Metrics](#metrics) | [Benchmarks](#benchmarks) | [Datasets](#datasets) | [Other Repos](#other-repos) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+---
+### Best Practices 
+| Year | Title | Notes | 
+| -: | :- | :- |
+| | Survey Papers | |
+---
+### Survey & Analytical Papers 
+| Year | Title | Notes | 
+| -: | :- | :- |
+| | Survey Papers | |
+| |  | |
+| | Analytical Papers | |
+| |  | |
 ---
 ### Metrics 
 LLM benchmarks (See [LLM Evaluation Topics for a quick intro](#llm-evaluation-topics))
@@ -24,6 +37,6 @@ LLM benchmarks (See [LLM Evaluation Topics for a quick intro](#llm-evaluation-to
 > I will start polulating this section
 ---
 ### Other Repos 
-LLM benchmarks (See [LLM Evaluation Topics for a quick intro](#llm-evaluation-topics))
+LLM benchmarks (See [LLM Evaluation Other Repos](https://github.com/xsankar/Awesome-LLM-Eval-MetricMinds?tab=readme-ov-file#other-repos)
 > I will start polulating this section
 ---
