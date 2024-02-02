@@ -57,4 +57,8 @@ LLM benchmarks (See [LLM Evaluation Topics for a quick intro](https://github.com
 ### Other Repos 
 LLM benchmarks (See [LLM Evaluation Other Repos](https://github.com/xsankar/Awesome-LLM-Eval-MetricMinds?tab=readme-ov-file#other-repos)
 > I will start polulating this section
+| Title | Notes |
+| :- | :- |
+| [Awesome Security](https://github.com/sbilly/awesome-security) | |
+| | |
 ---
