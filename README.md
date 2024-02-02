@@ -22,10 +22,11 @@
 | 2023.06 | [NVIDIA AI Red Team: An Introduction](https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/) | |
 | | Sensational Press | |
 | 2023.08 | [Hackers red-teaming A.I. are ‘breaking stuff left and right,’ but don’t expect quick fixes from DefCon: ‘There are no good guardrails](https://fortune.com/2023/08/13/hackers-red-teaming-ai-defcon-breaking-stuff-but-no-quick-fixes/) | | 
+---
 ### NIST
 > All NIST documents, ideas, responses et al
 > 
-> Most probably will split into a Awesome_NIST repository 
+> Most probably will split into a Awesome-NIST repository 
 ---
 ### Survey & Analytical Papers 
 | Year | Title | Notes | 
