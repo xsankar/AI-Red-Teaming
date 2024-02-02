@@ -4,10 +4,11 @@
 | :- | :- |
 > All things specific to LLM Red Teaming Generative AI
 > My Blog "What the heck is AI Red Teaming" https://bit.ly/ai-red-teaming
-> 
+>
+> |  |
+> | :- |
 > |***As of 11.30.23, I am working hard to build the repos - takes time to review and curate. Appreciate your patience ... Thanks ...***|
 > |***As of  2.1.24, Started transcribing and curating the links from my Omnioutline to this GitHub page ...***|
-> | :- |
 > 
 ---
 | [Best Practices](#best-practices) |[Survey & Analytical Paper Collection](#survey--analytical-papers) | [Metrics](#metrics) | [Benchmarks](#benchmarks) | [Datasets](#datasets) | [Other Repos](#other-repos) |
