@@ -14,7 +14,8 @@
 ### Best Practices 
 | Year | Title | Notes | 
 | -: | :- | :- |
-| |  | |
+| 2023.07 | [Google's AI Red Team: the ethical hackers making AI safer](https://blog.google/technology/safety-security/googles-ai-red-team-the-ethical-hackers-making-ai-safer/) | Good Conceptual Diagrams|
+| 2023.06 | [NVIDIA AI Red Team: An Introduction](https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/) | Nvidia |
 ---
 ### Survey & Analytical Papers 
 | Year | Title | Notes | 
