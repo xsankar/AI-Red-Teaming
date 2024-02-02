@@ -35,7 +35,7 @@
 | | LLMs vs. LLMs | |
 | 2022.02 | [Red Teaming Language Models with Language Models](https://arxiv.org/abs/2202.03286) | |
 | | Analytical Papers | |
-| |  | |
+| 2023.10 | [Risk Assessment and Statistical Significance in the Age of Foundation Models](https://arxiv.org/abs/2310.07132) | |
 ---
 ### Metrics 
 LLM benchmarks (See [LLM Evaluation Topics for a quick intro](https://github.com/xsankar/Awesome-LLM-Eval-MetricMinds?tab=readme-ov-file#metrics--benchmarks-by-topic))
