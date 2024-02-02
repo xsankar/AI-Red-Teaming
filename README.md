@@ -15,7 +15,10 @@
 | Year | Title | Notes | 
 | -: | :- | :- |
 | 2023.07 | [Google's AI Red Team: the ethical hackers making AI safer](https://blog.google/technology/safety-security/googles-ai-red-team-the-ethical-hackers-making-ai-safer/) | Good Conceptual Diagrams|
-| 2023.06 | [NVIDIA AI Red Team: An Introduction](https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/) | Nvidia |
+| 2023.10 | [Best Practices for Securing LLM-Enabled Applications](https://developer.nvidia.com/blog/best-practices-for-securing-llm-enabled-applications/) | Nvidia |
+| 2023.06 | [NVIDIA AI Red Team: An Introduction](https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/) | |
+| | Sensational Press | |
+| 2023.08 | [Hackers red-teaming A.I. are ‘breaking stuff left and right,’ but don’t expect quick fixes from DefCon: ‘There are no good guardrails](https://fortune.com/2023/08/13/hackers-red-teaming-ai-defcon-breaking-stuff-but-no-quick-fixes/) | | 
 ---
 ### Survey & Analytical Papers 
 | Year | Title | Notes | 
