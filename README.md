@@ -11,7 +11,7 @@
 > |***As of  2.1.24, Started transcribing and curating the links from my Omnioutline to this GitHub page ...***|
 > 
 ---
-| [Best Practices](#best-practices) |[Survey & Analytical Paper Collection](#survey--analytical-papers) | [Metrics](#metrics) | [Benchmarks](#benchmarks) | [Datasets](#datasets) | [Other Repos](#other-repos) |
+| [Best Practices](#best-practices) | [NIST](#nist) | [Survey & Analytical Paper Collection](#survey--analytical-papers) | [Metrics](#metrics) | [Benchmarks](#benchmarks) | [Datasets](#datasets) | [Other Repos](#other-repos) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 ---
 ### Best Practices 
@@ -22,6 +22,10 @@
 | 2023.06 | [NVIDIA AI Red Team: An Introduction](https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/) | |
 | | Sensational Press | |
 | 2023.08 | [Hackers red-teaming A.I. are ‘breaking stuff left and right,’ but don’t expect quick fixes from DefCon: ‘There are no good guardrails](https://fortune.com/2023/08/13/hackers-red-teaming-ai-defcon-breaking-stuff-but-no-quick-fixes/) | | 
+### NIST
+> All NIST documents, ideas, responses et al
+> 
+> Most probably will split into a Awesome_NIST repository 
 ---
 ### Survey & Analytical Papers 
 | Year | Title | Notes | 
