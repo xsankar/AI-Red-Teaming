@@ -3,8 +3,9 @@
 | [About Me](https://ksankar.medium.com/about-me-the-pitter-patter-of-small-feats-de22f4c36ea6) | [Blog](https://ksankar.medium.com) |
 | :- | :- |
 > All things specific to LLM Red Teaming Generative AI
-> 
+> My Blog "What the heck is AI Red Teaming" https://bit.ly/ai-red-teaming
 > |***As of 11.30.23, I am working hard to build the repos - takes time to review and curate. Appreciate your patience ... Thanks ...***|
+> |***As of  2.1.24, Started transcribing and curating the links from my Omnioutline to this GitHub page ...***|
 > | :- |
 > 
 ---
