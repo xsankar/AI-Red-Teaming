@@ -20,7 +20,11 @@
 | Year | Title | Notes | 
 | -: | :- | :- |
 | | Survey Papers | |
-| |  | |
+| 2024.01 | [Red-Teaming for Generative AI: Silver Bullet or Security Theater?](https://arxiv.org/abs/2401.15897) | |
+| 2023.08 | [Red-Teaming Large Language Models using Chain of Utterances for Safety-Alignment](https://arxiv.org/abs/2308.09662) | |
+| 2023.06 | [Explore, Establish, Exploit: Red Teaming Language Models from Scratch](https://arxiv.org/abs/2306.09442) | |
+| | LLMs vs. LLMs | |
+| 2022.02 | [Red Teaming Language Models with Language Models](https://arxiv.org/abs/2202.03286) | |
 | | Analytical Papers | |
 | |  | |
 ---
