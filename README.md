@@ -8,4 +8,7 @@
 > | :- |
 > 
 ***
-
+---
+| [Survey & Analytical Paper Collection](#survey--analytical-papers) | [Metrics](#metrics) | [Benchmarks](#benchmarks) | [Datasets](#datasets) | [Other Repos](#other-repos) |
+| :-: | :-: | :-: | :-: | :-: |
+---
