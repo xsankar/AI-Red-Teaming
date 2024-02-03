@@ -35,6 +35,7 @@
 | Year | Title | Notes | 
 | -: | :- | :- |
 | | Survey Papers | |
+| 2024.01 | [Red Teaming Visual Language Models](https://arxiv.org/abs/2401.12915) | |
 | 2024.01 | [Red-Teaming for Generative AI: Silver Bullet or Security Theater?](https://arxiv.org/abs/2401.15897) | |
 | 2023.11 | [Summon a Demon and Bind it: A Grounded Theory of LLM Red Teaming in the Wild](https://arxiv.org/abs/2311.06237) | |
 | 2023.08 | [Red-Teaming Large Language Models using Chain of Utterances for Safety-Alignment](https://arxiv.org/abs/2308.09662) | |
