@@ -28,7 +28,7 @@
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 > All NIST documents, ideas, responses et al
 > 
-> Most probably will split into a Awesome-NIST repository 
+> Most probably will split into a Awesome-NIST repository. I have - see [Awesome-NIST](https://github.com/xsankar/Awesome-NIST/) 
 ---
 ### Survey & Analytical Papers
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
@@ -47,21 +47,25 @@
 ---
 ### Metrics
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+
 LLM benchmarks (See [LLM Evaluation Topics for a quick intro](https://github.com/xsankar/Awesome-LLM-Eval-MetricMinds?tab=readme-ov-file#metrics--benchmarks-by-topic))
 > I will start polulating this section
 ---
 ### Benchmarks
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+
 LLM benchmarks (See [LLM Evaluation Topics for a quick intro](https://github.com/xsankar/Awesome-LLM-Eval-MetricMinds?tab=readme-ov-file#metrics--benchmarks-by-topic))
 > I will start polulating this section
 ---
-### Dataasets
+### Datasets
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+
 LLM benchmarks (See [LLM Evaluation Topics for a quick intro](https://github.com/xsankar/Awesome-LLM-Eval-MetricMinds?tab=readme-ov-file#metrics--benchmarks-by-topic))
 > I will start polulating this section
 ---
 ### Other Repos
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+
 LLM benchmarks (See [LLM Evaluation Other Repos](https://github.com/xsankar/Awesome-LLM-Eval-MetricMinds?tab=readme-ov-file#other-repos)
 > I will start polulating this section
 > 
