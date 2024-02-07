@@ -35,7 +35,7 @@
 | Year | Title | Notes | 
 | -: | :- | :- |
 | | Survey Papers | |
-| 2024.01 | [Gradient-Based Language Model Red Teaming](https://export.arxiv.org/abs/2401.16656) | Hot from the press (at least for now! as of 2.6.24) <br> <ul><li>I had written, in my Red Teaming blog, _“Tests follow a progressive nature, where a response could lead to another prompt deeper in the knowledge graph on the same topic”_ [Here](https://bit.ly/ai-red-teaming)</li><li>I was thinking of a prompt hierarchy, this paper does the adaptive Red Teaming by creating new, modified prompts using backprop !!</li></ul> |
+| 2024.01 | [Gradient-Based Language Model Red Teaming](https://export.arxiv.org/abs/2401.16656) | Hot from the press (at least for now! as of Stardate -299100.57) <br> <ul><li>I had written, in my Red Teaming blog, _“Tests follow a progressive nature, where a response could lead to another prompt deeper in the knowledge graph on the same topic”_ [Here](https://bit.ly/ai-red-teaming)</li><li>I was thinking of a prompt hierarchy, this paper does the adaptive Red Teaming by creating new, modified prompts using backprop !!</li></ul> |
 | 2024.01 | [Red Teaming Visual Language Models](https://arxiv.org/abs/2401.12915) | |
 | 2024.01 | [Red-Teaming for Generative AI: Silver Bullet or Security Theater?](https://arxiv.org/abs/2401.15897) | |
 | 2023.11 | [Summon a Demon and Bind it: A Grounded Theory of LLM Red Teaming in the Wild](https://arxiv.org/abs/2311.06237) | |
