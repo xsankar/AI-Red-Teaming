@@ -46,6 +46,7 @@
 | 2022.02 | [Red Teaming Language Models with Language Models](https://arxiv.org/abs/2202.03286) | |
 | | Analytical Papers | |
 | 2023.10 | [Risk Assessment and Statistical Significance in the Age of Foundation Models](https://arxiv.org/abs/2310.07132) | |
+| | [Star Trek Stardate Calculator](http://batmans.dyndns.info/link/stardatecalculator.html) |
 ---
 ### Metrics
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
