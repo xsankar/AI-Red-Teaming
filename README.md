@@ -2,7 +2,8 @@
 #### _[<img src="images/back_button_2.png" width="25" height="25">Back to TOC](https://github.com/xsankar/Awesome-Awesome-LLM)_
 | [About Me](https://ksankar.medium.com/about-me-the-pitter-patter-of-small-feats-de22f4c36ea6) | [Blog](https://ksankar.medium.com) |
 | :- | :- |
-> All things specific to Generative AI LLM Red Teaming 
+> All things specific to Generative AI LLM Red Teaming
+>  
 > My Blog "What the heck is AI Red Teaming" https://bit.ly/ai-red-teaming
 >
 > |  |
@@ -18,6 +19,8 @@
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 | Year | Title | Notes | 
 | -: | :- | :- |
+| | My Blog ["What the heck is AI Red Teaming"](https://bit.ly/ai-red-teaming) | A quick general blog |
+| | [What’s the Difference Between Traditional Red-Teaming and AI Red-Teaming?](https://www.cranium.ai/traditional_vs_ai_red_teaming/) | There is a slight cognitice dissonance between traditional Red Teaming and AI Red Teaming |
 | 2023.07 | [Google's AI Red Team: the ethical hackers making AI safer](https://blog.google/technology/safety-security/googles-ai-red-team-the-ethical-hackers-making-ai-safer/) | Good Conceptual Diagrams|
 | 2023.10 | [Best Practices for Securing LLM-Enabled Applications](https://developer.nvidia.com/blog/best-practices-for-securing-llm-enabled-applications/) | Nvidia |
 | 2023.06 | [NVIDIA AI Red Team: An Introduction](https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/) | |
