@@ -52,7 +52,10 @@ Information Classification: Tag and classify data within the knowledge base to c
 12. Output Monitoring: Use automated tools to detect and redact sensitive information from outputs
 13. Model Alignment Drift detection : Reevaluate safety and security alignment after fine tuning and RAG, through red teaming efforts.
 14. Encryption : Use encryption that still supports nearest neighbor search to protect vectors from inversion and inference attacks. Use separate keys per partition to protect against cross-partition leakage
-15. Response evaluation : Implement the RAG Triad for response evaluation i.e., Context relevance (Is the retrieved context relevant to the query ?) - Groundedness (Is the response supported by the context ?) - Question / Answer relevance (is the answer relevant to the question ?) 
+15. Response evaluation : Implement the RAG Triad for response evaluation i.e., Context relevance (Is the retrieved context relevant to the query ?) - Groundedness (Is the response supported by the context ?) - Question / Answer relevance (is the answer relevant to the question ?)
+
+![RAG Triad](images/Rag_triad.jpg)
+
 16. Implement version control and rollback capabilities for RAG knowledge bases
 17. Develop and use tools for automated detection of potential data poisoning attempts
 18. Monitoring and Logging: Keep detailed logs of retrieval activities to detect and respond to suspicious behavior promptly.
@@ -96,4 +99,3 @@ Information Classification: Tag and classify data within the knowledge base to c
 10. [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://llm-attacks.org/)
 11. https://www.maginative.com/article/rlhf-in-the-spotlight-problems-and-limitations-with-a-key-ai-alignment-technique/
 12. https://docs.aws.amazon.com/prescriptive-guidance/latest/llm-prompt-engineering-best-practices/best-practices.html#guardrails
-13. 
