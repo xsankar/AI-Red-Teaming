@@ -48,7 +48,7 @@ Information Classification: Tag and classify data within the knowledge base to c
 8. Access Control : A mature end-to-end access control strategy that takes into account the RAG pipeline stages. Implement strict access permissions to sensitive data and ensure that the retrieval component respects these controls.
 9. Fine grained access control : Have fine grained access control at the VectorDb level or have granular partition and appropriate visibility.
 10. Audit access control : Regularly audit and update access control mechanisms
-11. Contextual Filtering: Implement filters that detect and block attempts to access sensitive data.
+11. Contextual Filtering: Implement filters that detect and block attempts to access sensitive data. For example implement guardrails via structured, session-specific tags [Ref #12]
 12. Output Monitoring: Use automated tools to detect and redact sensitive information from outputs
 13. Model Alignment Drift detection : Reevaluate safety and security alignment after fine tuning and RAG, through red teaming efforts.
 14. Encryption : Use encryption that still supports nearest neighbor search to protect vectors from inversion and inference attacks. Use separate keys per partition to protect against cross-partition leakage
@@ -94,4 +94,6 @@ Information Classification: Tag and classify data within the knowledge base to c
 8. [Information Leakage in Embedding Models](https://arxiv.org/abs/2004.00053)
 9. [Sentence Embedding Leaks More Information than You Expect: Generative Embedding Inversion Attack to Recover the Whole Sentence](https://arxiv.org/pdf/2305.03010)
 10. [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://llm-attacks.org/)
-11. https://www.maginative.com/article/rlhf-in-the-spotlight-problems-and-limitations-with-a-key-ai-alignment-technique/)
+11. https://www.maginative.com/article/rlhf-in-the-spotlight-problems-and-limitations-with-a-key-ai-alignment-technique/
+12. https://docs.aws.amazon.com/prescriptive-guidance/latest/llm-prompt-engineering-best-practices/best-practices.html#guardrails
+13. 
