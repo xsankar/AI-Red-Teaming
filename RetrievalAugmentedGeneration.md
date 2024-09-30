@@ -29,6 +29,7 @@ Moreover, malicious actors could manipulate the external knowledge base by injec
 11. **RAG Data parameter risk:** When documents are updated they might make previous RAG parameters like chunk size obsolete. For example a fare table might add more tiers making the table longer, thus the original chunking becomes obsolete. 
 12. **Complexity:** RAG is computationally less intensive, but as a technology it is not easier than fine tuning. Mechanisms like chunking, embedding, and index are still an art, not science. There are many different RAG patterns such as Graph RAG, Self Reflection RAG, and many other emerging RAG patterns. So, technically it is much harder than fine tuning
 13. **Legal and Compliance Risks:** Unauthorized use of copyrighted material or non-compliance with data usage policies, for augmentation, can lead to legal repercussions.
+14. **RAG based worm escalates RAG membership inference attacks:** Attackers can escalate RAG membership inference attacks and RAG entity extraction attacks to RAG documents extraction attacks, forcing a more severe outcome compared to existing attacks (Ref #13)
 
 While RAG is the focus of this entry, we will mention two vulnerabilities with another adaptation technique Fine tuning.
 1. Fine Tuning LLMs may break their safety and security alignment (Ref #2)
@@ -62,6 +63,12 @@ Information Classification: Tag and classify data within the knowledge base to c
 19. Fallback Mechanisms: Develop strategies for the model to handle situations when the retrieval component fails or returns insufficient data.
 20. Regular Security Assessments: Perform penetration testing and code audits to identify and remediate vulnerabilities.
 21. Incident Response Plan: Develop and maintain a plan to respond promptly to security incidents.
+22. The RAG-based worm attack(Ref #13) has a set of mitigations, that are also good security practices. They include :
+    1. Database Access Control - Restrict  the insertion of new documents to documents created by trusted parties and authorized entities
+    2. API Throttling - Restrict a user’s number of probes to the system by limiting the number of queries a user can perform to a GenAI-powered application (and to the database used by the RAG)
+    3. Thresholding - Restrict the data extracted in the retrieval by setting a minimum threshold to the similarity score, limiting the retrieval to relevant documents that crossed a threshold.
+    4. Content Size Limit - This guardrail intends to restrict the length of user inputs.
+    5. Automatic Input/Output Data Sanitization - Training dedicated classifiers to identify risky inputs and outputs incl adversarial selfreplicating prompt
 
 
 ### Example Attack Scenarios
@@ -99,3 +106,6 @@ Information Classification: Tag and classify data within the knowledge base to c
 10. [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://llm-attacks.org/)
 11. https://www.maginative.com/article/rlhf-in-the-spotlight-problems-and-limitations-with-a-key-ai-alignment-technique/
 12. https://docs.aws.amazon.com/prescriptive-guidance/latest/llm-prompt-engineering-best-practices/best-practices.html#guardrails
+13. [Unleashing Worms and Extracting Data: Escalating the Outcome of Attacks against RAG-based Inference in Scale and Severity Using Jailbreaking](https://arxiv.org/abs/2409.08045)
+
+
